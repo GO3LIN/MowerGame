@@ -14,6 +14,7 @@ Go to the project directory and run the install command:
 `npm install`
 
 
+
 ## Run the app
 
 The test file is located in the src folder. There's already the example test file in that folder, so you will just have to run:
